@@ -1,6 +1,6 @@
 # The 2nd YouTube-8M Video Understanding Challenge
 
-The 18th Place Solution for [The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)
+The 19th Place Solution for [The 2nd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2018)
 
 ## Challenge Description
 
